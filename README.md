@@ -3,7 +3,7 @@ Kuzushiji and Fashion Dataset provided in Robust Unsupervised Multi-Object Track
 
 - Will release the dataset before Sep 15th 2021
 
-[Poster](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/Huck_ICIP21_Poster.pdf)
+[Poster](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/Huck_ICIP21_Poster.pdf) |
 
 ```bib
 @INPROCEEDINGS{9506029,  
