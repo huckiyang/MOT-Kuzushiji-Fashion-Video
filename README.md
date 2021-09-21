@@ -1,6 +1,14 @@
 # MOT-Kuzushiji-Fashion-Video
 Kuzushiji and Fashion Dataset provided in Robust Unsupervised Multi-Object Tracking in Noisy Environments 2021
 
+## Environment
+
+```shell
+conda env create -f test2.yml
+pip install motmetrics
+conda install pytorch==1.2.0 torchvision==0.4.0 cudatoolkit=10.0 -c pytorch
+```
+
 ## Generate Dataset
 
 - Generate Kuzushiji Video without noise
