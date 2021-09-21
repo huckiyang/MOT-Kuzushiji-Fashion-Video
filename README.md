@@ -28,6 +28,9 @@ python gen_mot_data.py --mnist FashionMNIST --noise_lv 0
 
 The code is heavily borrowed from [Zhen He et al. tracking by animation](https://github.com/zhen-he/tracking-by-animation). Thanks the authors for their contributions. 
 
+- [FashionMNIST Paper](https://arxiv.org/pdf/1708.07747.pdf)
+
+- [KMNIST Paper](https://arxiv.org/pdf/1812.01718v1.pdf)
 
 [Paper](https://arxiv.org/pdf/2105.10005.pdf) | [Poster](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/Huck_ICIP21_Poster.pdf) | [Slides](https://docs.google.com/presentation/d/1GFItGucAZOFi3VBtwbNM9S1M0jLcgpss1ph-r6y8l9U/edit?usp=sharing)
 
