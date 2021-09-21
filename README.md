@@ -10,7 +10,7 @@ python gen_mot_data.py --mnist KMNIST --noise_lv 0
 
 ```
 
-![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/master/img_demo/kmnist.gif)
+![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/img_demo/kmnist.gif)
 
 
 - Generate Fashion Video without noise
