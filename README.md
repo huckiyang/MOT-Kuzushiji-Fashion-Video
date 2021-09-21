@@ -3,10 +3,25 @@ Kuzushiji and Fashion Dataset provided in Robust Unsupervised Multi-Object Track
 
 ## Generate Dataset
 
-```
-python gen_mot_data.py --mnist KMNIST --noise_lv 0.1
+- Generate Kuzushiji Video without noise
 
 ```
+python gen_mot_data.py --mnist KMNIST --noise_lv 0
+
+```
+
+![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/master/img_demo/kmnist.gif)
+
+
+- Generate Fashion Video without noise
+
+```
+python gen_mot_data.py --mnist FashionMNIST --noise_lv 0
+
+```
+
+![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/master/img_demo/fashion.gif)
+
 
 
 ## References
