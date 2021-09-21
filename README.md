@@ -20,7 +20,7 @@ python gen_mot_data.py --mnist FashionMNIST --noise_lv 0
 
 ```
 
-![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/master/img_demo/fashion.gif)
+![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/img_demo/fashion.gif)
 
 
 
