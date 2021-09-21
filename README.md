@@ -9,7 +9,7 @@ python gen_mot_data.py --mnist KMNIST --noise_lv 0.1
 ```
 
 
-References
+## References
 
 The code is heavily borrowed from [Zhen He et al. tracking by animation](https://github.com/zhen-he/tracking-by-animation). Thanks the authors for their contributions. 
 
