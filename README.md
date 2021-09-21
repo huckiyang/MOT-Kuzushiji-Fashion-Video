@@ -23,6 +23,13 @@ python gen_mot_data.py --mnist FashionMNIST --noise_lv 0
 ![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/img_demo/fashion.gif)
 
 
+- Generate Scrambling Video for testing
+
+Use the [line 193](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/gen_mot_data.py#L193) with MNIST data.
+
+![img](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/img_demo/scrambling2.gif)
+
+
 
 ## References
 
