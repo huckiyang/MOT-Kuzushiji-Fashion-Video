@@ -1,7 +1,7 @@
 # MOT-Kuzushiji-Fashion-Video
 Kuzushiji and Fashion Dataset provided in Robust Unsupervised Multi-Object Tracking in Noisy Environments 2021
 
-[Paper](https://arxiv.org/pdf/2105.10005.pdf) | [Poster](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/Huck_ICIP21_Poster.pdf) | [Slides](https://docs.google.com/presentation/d/1GFItGucAZOFi3VBtwbNM9S1M0jLcgpss1ph-r6y8l9U/edit?usp=sharing)
+[Paper](https://arxiv.org/pdf/2105.10005.pdf) | [Poster](https://github.com/huckiyang/MOT-Kuzushiji-Fashion-Video/blob/main/Huck_ICIP21_Poster.pdf) | [Slides](https://docs.google.com/presentation/d/1GFItGucAZOFi3VBtwbNM9S1M0jLcgpss1ph-r6y8l9U/edit?usp=sharing) | [Video](https://youtu.be/fcdjPeB48ew)
 
 ## Environment
 
